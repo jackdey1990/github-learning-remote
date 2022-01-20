@@ -6,7 +6,7 @@ def sub(x,y):
     return(x-y)    #from remote repo
 #multiply
 def mul(x,y):
-    return(x*y)
+    return(x*y)    #local_repo
 #division
 def div(x,y):
     return(x/y)
