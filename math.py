@@ -7,6 +7,7 @@ def sub(x,y):
 #multiply
 def mul(x,y):
     return(x*y)
+#division
 def div(x,y):
     return(x/y)
 def mod(x,y):
