@@ -4,6 +4,7 @@ def add(x,y):
 #subtraction
 def sub(x,y):
     return(x-y)
+#multiply
 def mul(x,y):
     return(x*y)
 def div(x,y):
