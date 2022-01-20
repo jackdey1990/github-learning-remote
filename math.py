@@ -9,6 +9,7 @@ def mul(x,y):
     return(x*y)
 def div(x,y):
     return(x/y)
+#modulo-operator
 def mod(x,y):
     return(x%y)
 def square(x):
